@@ -6,11 +6,6 @@
 
 <table>
   <tr>
-    <td colspan="2">
-     
-    </td>
-  </tr>
-  <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraparmar2310&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
