@@ -2,5 +2,4 @@
 
 ![Rudra's GitHub Stats](https://github-stats-extended.vercel.app/api?username=rudraparmar2310&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=rudraparmar2310&layout=compact&theme=tokyonight&hide_border=true)
-![Streak Stats](https://streak-stats.demolab.com/?user=rudraparmar2310&theme=tokyonight&hide_border=true)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rudraparmar2310&theme=react-dark&hide_border=true)
