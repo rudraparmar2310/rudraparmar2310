@@ -1,5 +1,3 @@
-![Rudra Parmar](https://raw.githubusercontent.com/rudraparmar2310/rudraparmar2310/main/README.svg)
-
 ## 📊 GitHub Stats
 
 <p align="center">
