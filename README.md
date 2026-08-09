@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td colspan="2">
-      <img src="https://github-stats-extended.vercel.app/api?username=rudraparmar2310&show_icons=true&theme=tokyonight&hide_border=true" alt="Rudra's GitHub Stats" />
+     
     </td>
   </tr>
   <tr>
