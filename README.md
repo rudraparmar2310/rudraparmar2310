@@ -2,11 +2,12 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-stats-extended.vercel.app/api?username=rudraparmar2310&show_icons=true&theme=tokyonight&hide_border=true" alt="Rudra's GitHub Stats" />
-
-<br/>
-
 <table>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-stats-extended.vercel.app/api?username=rudraparmar2310&show_icons=true&theme=tokyonight&hide_border=true" alt="Rudra's GitHub Stats" />
+    </td>
+  </tr>
   <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraparmar2310&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
