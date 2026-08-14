@@ -207,7 +207,7 @@
   <text x="307" y="584" font-family="monospace, Courier New, Courier" font-size="13" fill="#e0f7ff" text-anchor="middle">Figma</text>
 
   <!-- ACHIEVEMENTS label (right side) -->
-  <text x="1200" y="552" font-family="monospace, Courier New, Courier" font-size="11" fill="#5577aa" letter-spacing="3">ACHIEVEMENTS</text>
+  <text x="1200" y="552" font-family="monospace, Courier New, Courier" font-size="11" fill="#5577aa" letter-spacing="3">LEETCODE ACHIEVEMENTS</text>
 
   <!-- Badge 1: SQL (triangular cloud badge) -->
   <image
