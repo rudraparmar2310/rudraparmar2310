@@ -132,14 +132,17 @@ Software Engineer focused on Java, Spring Boot, Python, Data Engineering, Machin
   To enable: replace both LEETCODE_USERNAME below with your real handle, then delete this line and the
   closing "-->" at the end of the block.
 
-## LeetCode
+## 🏆 LeetCode Achievements
 
 <div align="center">
-  <a href="https://leetcode.com/u/LEETCODE_USERNAME/">
-    <img height="180" src="https://leetcard.jacoblin.cool/LEETCODE_USERNAME?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode statistics" />
+  <a href="https://leetcode.com/u/rudraparmar231/">
+    <img src="./assets/leetcode-days-badges-transparent.png" width="380" alt="100 & 50 Days Badges" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/studyplan/top-sql-50/">
+    <img src="./assets/leetcode-sql-badge-transparent.png" width="130" alt="SQL 50 Badge" />
   </a>
 </div>
--->
 
 <br />
 
