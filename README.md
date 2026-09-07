@@ -15,8 +15,9 @@
   </tr>
 </table>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudraparmar2310&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rudraparmar2310&theme=react-dark&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+  />
 </div>
