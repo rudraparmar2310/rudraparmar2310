@@ -114,7 +114,7 @@ Software Engineer focused on Java, Spring Boot, Python, Data Engineering, Machin
 ## Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraparmar2310&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=E2E8F0&icon_color=4ADE80&langs_count=8" alt="Most Used Languages by Rudra Parmar" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rudraparmar2310&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=E2E8F0&icon_color=4ADE80&langs_count=8" alt="Most Used Languages by Rudra Parmar" />
 </div>
 
 <br />
