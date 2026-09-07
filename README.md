@@ -1,4 +1,4 @@
-<div align="center">
+<img width="390" height="296" alt="100" src="https://github.com/user-attachments/assets/cdef9a2d-6ea5-4945-8031-8cd656dfbe93" /><div align="center">
     <img src="https://raw.githubusercontent.com/rudraparmar2310/rudraparmar2310/main/README.svg?v=2" width="100%" alt="Rudra Parmar — AI/ML Engineer, Data Engineer, Software Developer" />
 </div>
 
@@ -124,7 +124,8 @@ Software Engineer focused on Java, Spring Boot, Python, Data Engineering, Machin
 
 <div align="center">
   <a href="https://leetcode.com/u/rudraparmar231/">
-    <img src="https://raw.githubusercontent.com/rudraparmar2310/rudraparmar2310/main/assets/leetcode-days-badges-transparent.png" width="380" alt="100 & 50 Days Badges" />
+    <img src="<img width="390" height="296" alt="100" src="https://github.com/user-attachments/assets/6ef8e935-d647-472e-a958-f601b8ba7366" />
+" width="380" alt="100 Days Badges" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/studyplan/top-sql-50/">
