@@ -115,32 +115,20 @@ Software Engineer focused on Java, Spring Boot, Python, Data Engineering, Machin
 ## GitHub Metrics
 
 <div align="center">
-  <img src="./assets/metrics.svg" alt="GitHub Metrics for Rudra Parmar" width="100%" />
+  <img src="https://raw.githubusercontent.com/rudraparmar2310/rudraparmar2310/main/assets/metrics.svg" alt="GitHub Metrics for Rudra Parmar" width="100%" />
 </div>
 
-<!--
-  If the activity graph above ever fails to load (the service is occasionally rate limited),
-  replace the <img> tag with this lighter, very stable alternative:
-  <img width="100%" src="https://ghchart.rshah.org/22d3ee/rudraparmar2310" alt="Contribution chart for rudraparmar2310" />
--->
-
 <br />
-
-<!--
-  LEETCODE SECTION — currently hidden.
-  Your LeetCode username could not be verified, so nothing is shown rather than showing a fake badge.
-  To enable: replace both LEETCODE_USERNAME below with your real handle, then delete this line and the
-  closing "-->" at the end of the block.
 
 ## 🏆 LeetCode Achievements
 
 <div align="center">
   <a href="https://leetcode.com/u/rudraparmar231/">
-    <img src="./assets/leetcode-days-badges-transparent.png" width="380" alt="100 & 50 Days Badges" />
+    <img src="https://raw.githubusercontent.com/rudraparmar2310/rudraparmar2310/main/assets/leetcode-days-badges-transparent.png" width="380" alt="100 & 50 Days Badges" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/studyplan/top-sql-50/">
-    <img src="./assets/leetcode-sql-badge-transparent.png" width="130" alt="SQL 50 Badge" />
+    <img src="https://raw.githubusercontent.com/rudraparmar2310/rudraparmar2310/main/assets/leetcode-sql-badge-transparent.png" width="130" alt="SQL 50 Badge" />
   </a>
 </div>
 
@@ -161,5 +149,3 @@ Software Engineer focused on Java, Spring Boot, Python, Data Engineering, Machin
 <div align="center">
   <sub>Machine Learning · Data Engineering · Software Development</sub>
 </div>
-
-<div align="center">
