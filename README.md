@@ -17,7 +17,8 @@
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rudraparmar2310&theme=react-dark&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rudraparmar2310&theme=react-dark&hide_border=true&area=true"
     alt="GitHub Contribution Activity Graph"
+    width="100%"
   />
 </div>
