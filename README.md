@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rudraparmar2310/rudraparmar2310/main/README.svg" width="100%" alt="Rudra Parmar — AI/ML Engineer, Data Engineer, Software Developer" />
+    <img src="https://raw.githubusercontent.com/rudraparmar2310/rudraparmar2310/main/README.svg?v=2" width="100%" alt="Rudra Parmar — AI/ML Engineer, Data Engineer, Software Developer" />
 </div>
 
 <br />
