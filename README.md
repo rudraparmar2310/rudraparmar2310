@@ -1,4 +1,4 @@
-<img width="390" height="296" alt="100" src="https://github.com/user-attachments/assets/cdef9a2d-6ea5-4945-8031-8cd656dfbe93" /><div align="center">
+<div align="center">
     <img src="https://raw.githubusercontent.com/rudraparmar2310/rudraparmar2310/main/README.svg?v=2" width="100%" alt="Rudra Parmar — AI/ML Engineer, Data Engineer, Software Developer" />
 </div>
 
