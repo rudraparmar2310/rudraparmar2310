@@ -123,7 +123,7 @@ Software Engineer focused on Java, Spring Boot, Python, Data Engineering, Machin
 ## 🏆 LeetCode Achievements
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rudraparmar2310/rudraparmar2310/main/assets/leetcode.svg" width="600" alt="LeetCode Achievements" />
+  <img src="https://raw.githubusercontent.com/rudraparmar2310/rudraparmar2310/main/leetcode.svg" />
 </div>
 
 <br />
