@@ -108,16 +108,14 @@ Software Engineer focused on Java, Spring Boot, Python, Data Engineering, Machin
 
 <div align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=rudraparmar2310&hide_border=true&background=0B1220&stroke=15243D&ring=22D3EE&fire=4ADE80&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&excludeDaysLabel=64748B" alt="GitHub streak statistics for rudraparmar2310" />
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraparmar2310&layout=compact&langs_count=8&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=94A3B8&icon_color=4ADE80" alt="Most used languages for rudraparmar2310" />
 </div>
 
 <br />
 
-## Contribution Activity
+## GitHub Metrics
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rudraparmar2310&custom_title=Contribution%20Activity&bg_color=0B1220&color=94A3B8&title_color=22D3EE&line=22D3EE&point=4ADE80&area=true&area_color=22D3EE&hide_border=true&radius=8" alt="Contribution activity graph for rudraparmar2310" />
+  <img src="./assets/metrics.svg" alt="GitHub Metrics for Rudra Parmar" width="100%" />
 </div>
 
 <!--
@@ -162,24 +160,3 @@ Software Engineer focused on Java, Spring Boot, Python, Data Engineering, Machin
 </div>
 
 <div align="center">
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraparmar2310&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraparmar2310&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=rudraparmar2310&theme=react-dark&hide_border=true&area=true"
-  alt="GitHub Contribution Activity Graph"
-  width="100%"
-/>
-
-</div>
