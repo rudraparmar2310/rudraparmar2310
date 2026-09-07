@@ -123,17 +123,7 @@ Software Engineer focused on Java, Spring Boot, Python, Data Engineering, Machin
 ## 🏆 LeetCode Achievements
 
 <div align="center">
-  <a href="https://leetcode.com/u/rudraparmar231/">
-    <img src="https://raw.githubusercontent.com/rudraparmar2310/rudraparmar2310/main/assets/leetcode-100-days.png" width="140" alt="100 Days Badge" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/rudraparmar231/">
-    <img src="https://raw.githubusercontent.com/rudraparmar2310/rudraparmar2310/main/assets/leetcode-50-days.png" width="140" alt="50 Days Badge" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/studyplan/top-sql-50/">
-    <img src="https://raw.githubusercontent.com/rudraparmar2310/rudraparmar2310/main/assets/leetcode-sql-badge.png" width="140" alt="SQL 50 Badge" />
-  </a>
+  <img src="https://raw.githubusercontent.com/rudraparmar2310/rudraparmar2310/main/assets/leetcode.svg" width="600" alt="LeetCode Achievements" />
 </div>
 
 <br />
