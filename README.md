@@ -126,7 +126,11 @@ Software Engineer focused on Java, Spring Boot, Python, Data Engineering, Machin
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudraparmar2310&theme=github-compact&bg_color=0B1220&color=22D3EE&line=4ADE80&point=E2E8F0&area=true&hide_border=true" alt="Rudra Parmar's Contribution Graph" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/rudraparmar2310/rudraparmar2310/output/contribution-graph.svg"
+    alt="Rudra Parmar's Contribution Graph"
+    width="100%"
+  />
 </div>
 
 <br />
