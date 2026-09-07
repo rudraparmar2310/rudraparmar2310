@@ -171,7 +171,7 @@ Software Engineer focused on Java, Spring Boot, Python, Data Engineering, Machin
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraparmar2310&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rudraparmar2310&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraparmar2310&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
