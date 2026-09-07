@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="assets/profile-header.svg" width="100%" alt="Rudra Parmar — AI/ML Engineer, Data Engineer, Software Developer" />
+  <img src="https://raw.githubusercontent.com/rudraparmar2310/rudraparmar2310/main/assets/profile-header.svg" width="100%" alt="Rudra Parmar — AI/ML Engineer, Data Engineer, Software Developer" />
 </div>
 
 <br />
 
-AI/ML Engineer working across machine learning, data engineering and software development. I build computer vision and NLP systems with PyTorch, design ETL and data-ingestion pipelines, and ship backend services in Python and Java.
+Software Engineer focused on Java, Spring Boot, Python, Data Engineering, Machine Learning, and AI. I enjoy building scalable backend systems, data pipelines, and AI-powered solutions that solve real-world problems.
 
 <br />
 
