@@ -94,6 +94,7 @@ Software Engineer focused on Java, Spring Boot, Python, Data Engineering, Machin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" alt="Visual Studio Code" title="Visual Studio Code" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/carla_logo_readme.svg" width="42" height="42" alt="carla simulator" title="carla simulator" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="42" height="42" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
 </p>
 <p>
