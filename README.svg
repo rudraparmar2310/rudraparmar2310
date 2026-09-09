@@ -1,103 +1,149 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1550 400" width="1550" height="400" role="img" aria-labelledby="hdr-title hdr-desc" preserveAspectRatio="xMidYMid meet" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTplMzBiYmU1Ny04MzAxLTQ1NDAtYjdkNS0wNGRiMDc1N2NlYTAAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaErnUxNNRTSJg9ucp/CM8SEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo4NWQ0OThhNy0wNjA1LTQ4ODMtOGI1MS00MmZlMmU0MGQyNDNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo62ADsqBWRPER1oYQa5HfaQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggaRN7mqwrLUfHTc/+Jktw6yF6mTQQEwNJ6OU/ZyFUHrikZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaECsbf87cSjyhJefHcS6KO4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCD/qI1fBkAiE4DzPGodEDsYL2KDo4wXQpOh/ur3j8lHLmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjsZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmUzMGJiZTU3LTgzMDEtNDU0MC1iN2Q1LTA0ZGIwNzU3Y2VhMC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjdlODlkMGMyLTdkMjAtNDcxZS1hMjcxLTZjOWM1MTA1MzAxN3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBpE3uarCstR8dNz/4mS3DrIXqZNBATA0no5T9nIVQeuKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggnR3WqcL4POTi0qbJbeP5GZDY/InhQUzAasPTGTGozYaiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggGbqHaftHMUrj5HdEtNLUT9zreo7eEuNJWf8eFPce8j50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQDA3djFeMZDX0SNcD3ZrOu4SxckbTbsROL6auZ2DMbEQd83X1qIIa7zEM96TQLSlUSkKWy/swONXP4lvidne0cU=</c2pa:manifest></metadata>
-  <title id="hdr-title">Rudra Parmar - AI/ML Engineer, Data Engineer, Software Developer</title>
-  <desc id="hdr-desc">Profile header with the name Rudra Parmar, the role line AI/ML Enthusiast, Data Engineer, Software Developer, and the tagline: Building data-driven systems, ML solutions and scalable software.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1550 400" width="1550" height="400" role="img" aria-labelledby="hdrTitle hdrDesc" preserveAspectRatio="xMidYMid meet" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphNTkwZGU2My0wMjQ2LTQzNWMtOGFlMy04MmNhNzA5ZTQwOTgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaBu5zkl5FhkCEbkW4JEc9E4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpiNzhiMjE3MS1kZTM3LTQ4ZjMtYTNmMi03NzYwZTE1ZjZlM2RscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoUmWQCzwW34Lm2R8EwCEk5AAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggSBZQMr7Cuk5KADyTgCDk5qJ70Lswie7of9SHrEU1TMGkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHnAgyxZuU7hq7S6FIM6H+QAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIPMNxIMl4igNB/VWdbFseFe4Ejo2VQ60je2K0B6RYDV4ZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQEVZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmE1OTBkZTYzLTAyNDYtNDM1Yy04YWUzLTgyY2E3MDllNDA5OC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmJhOTg5N2JjLTMwOWEtNDNmZC05MThkLTQ0ZmUzODliNTlmZXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBIFlAyvsK6TkoAPJOAIOTmonvQuzCJ7uh/1IesRTVMwaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggHKexohnfMnXy599CJi2X4UDQqnNezmrJrDg73bC8clCiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggGLhlh5kRSIKOu+5yC4lLabYYD5nquQq0VJppVfEql3V0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJODMf9EZlrBZmk6V36V7yez7Z9dU4kE4aQpciqxT5LC9YdWZQkLyYNKZn1s83mKUnNcCAg1kxP+JT1T3Ek0NxQ=</c2pa:manifest></metadata>
+  <title id="hdrTitle">Rudra Parmar - AI/ML Engineer, Data Engineer, Software Developer</title>
+  <desc id="hdrDesc">Dark futuristic profile banner with the name Rudra Parmar, the role line AI/ML Engineer, Data Engineer, Software Developer, and the tagline: Building data-driven systems, ML solutions and scalable software. The right side shows an animated neural network, data packets, charts and data symbols.</desc>
 
   <defs>
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+    <!-- ============ GRADIENTS ============ -->
+    <linearGradient id="gBg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#04070E"/>
       <stop offset="0.55" stop-color="#070C18"/>
       <stop offset="1" stop-color="#04131A"/>
     </linearGradient>
-    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="gName" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#22D3EE"/>
       <stop offset="0.40" stop-color="#38BDF8"/>
       <stop offset="0.70" stop-color="#3B82F6"/>
       <stop offset="1" stop-color="#4ADE80"/>
     </linearGradient>
-    <linearGradient id="ruleGrad" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="gRule" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#22D3EE" stop-opacity="0.85"/>
       <stop offset="0.55" stop-color="#3B82F6" stop-opacity="0.35"/>
       <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
+    <linearGradient id="gScan" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
       <stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.06"/>
       <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
     </linearGradient>
-    <radialGradient id="glowBlue" cx="0.5" cy="0.5" r="0.5">
+    <linearGradient id="gSweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.6" stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#A5F3FC" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="gGridFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0.42" stop-color="#000000"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <linearGradient id="gSpark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.15"/>
+      <stop offset="0.5" stop-color="#4ADE80" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#4ADE80" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="gGlowBlue" cx="0.5" cy="0.5" r="0.5">
       <stop offset="0" stop-color="#0EA5E9" stop-opacity="0.22"/>
       <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowGreen" cx="0.5" cy="0.5" r="0.5">
+    <radialGradient id="gGlowGreen" cx="0.5" cy="0.5" r="0.5">
       <stop offset="0" stop-color="#22C55E" stop-opacity="0.16"/>
       <stop offset="1" stop-color="#22C55E" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="dotGlow1" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    <radialGradient id="gGlowCore" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="dotGlow2" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#4ADE80" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#4ADE80" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="softGlow" x="-25%" y="-40%" width="150%" height="180%">
-      <feGaussianBlur stdDeviation="9"/>
-    </filter>
-    <filter id="nodeGlow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
-    </filter>
-    <filter id="edgeGlow" x="-20%" y="-200%" width="140%" height="500%">
-      <feGaussianBlur stdDeviation="1.5"/>
-    </filter>
-    <clipPath id="mainClip">
+
+    <!-- ============ PATTERNS ============ -->
+    <pattern id="pMatrix" width="46" height="46" patternUnits="userSpaceOnUse">
+      <path d="M46 0 L0 0 L0 46" fill="none" stroke="#12324D" stroke-width="0.7"/>
+      <circle cx="0" cy="0" r="0.9" fill="#1B4F6B"/>
+    </pattern>
+    <pattern id="pDots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="0.7" fill="#1E4A63"/>
+    </pattern>
+
+    <!-- ============ MASKS / CLIPS ============ -->
+    <mask id="mGridFade">
+      <rect x="0" y="0" width="1550" height="400" fill="url(#gGridFade)"/>
+    </mask>
+    <clipPath id="cMain">
       <rect x="0" y="0" width="1550" height="400" rx="16"/>
     </clipPath>
+    <clipPath id="cNameWipe">
+      <rect x="70" y="76" width="0" height="132">
+        <animate attributeName="width" values="0;1060" dur="0.95s" begin="0.20s"
+                 calcMode="spline" keyTimes="0;1" keySplines="0.16 0.84 0.30 1" fill="freeze"/>
+      </rect>
+    </clipPath>
+
+    <!-- ============ FILTERS ============ -->
+    <filter id="fSoftGlow" x="-25%" y="-40%" width="150%" height="180%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+    <filter id="fNodeGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feComposite in="SourceGraphic" in2="b" operator="over"/>
+    </filter>
+    <filter id="fTrail" x="-30%" y="-120%" width="160%" height="340%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+    <filter id="fMicroGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="1.6"/>
+    </filter>
+
+    <!-- ============ MOTION PATHS (data packets) ============ -->
+    <path id="pathPk1" d="M968 62 L1064 122 L1010 236 L1128 306" fill="none"/>
+    <path id="pathPk2" d="M1206 96 L1310 66 L1414 96" fill="none"/>
+    <path id="pathPk3" d="M1206 152 L1310 178 L1414 152" fill="none"/>
+    <path id="pathPk4" d="M1206 208 L1310 122 L1414 208" fill="none"/>
+    <path id="pathPk5" d="M1010 236 L936 176" fill="none"/>
+    <path id="pathPk6" d="M1414 152 L1486 236 L1400 330" fill="none"/>
   </defs>
 
-  <!-- Background -->
-  <rect x="0" y="0" width="1550" height="400" rx="16" fill="url(#bgGrad)"/>
+  <!-- ================= BACKGROUND ================= -->
+  <rect x="0" y="0" width="1550" height="400" rx="16" fill="url(#gBg)"/>
 
-  <!-- Ambient glows -->
-  <ellipse cx="200" cy="70" rx="560" ry="300" fill="url(#glowBlue)">
-    <animate attributeName="rx" values="560;580;540;560" dur="8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0.8;1" dur="6s" repeatCount="indefinite"/>
-  </ellipse>
-  <ellipse cx="1370" cy="370" rx="480" ry="280" fill="url(#glowGreen)">
-    <animate attributeName="rx" values="480;460;500;480" dur="10s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0.75;1" dur="7s" repeatCount="indefinite"/>
-  </ellipse>
+  <g clip-path="url(#cMain)">
 
-  <!-- Scan line animation -->
-  <g clip-path="url(#mainClip)">
-    <rect x="0" y="-80" width="1550" height="80" fill="url(#scanGrad)">
+    <!-- Matrix grid + dot field, fading in from the right -->
+    <g mask="url(#mGridFade)">
+      <rect x="0" y="0" width="1550" height="400" fill="url(#pMatrix)" opacity="0.34">
+        <animate attributeName="opacity" values="0.34;0.22;0.34" dur="9s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="0" y="0" width="1550" height="400" fill="url(#pDots)" opacity="0.5"/>
+    </g>
+
+    <!-- Ambient glows -->
+    <ellipse cx="200" cy="70" rx="560" ry="300" fill="url(#gGlowBlue)">
+      <animate attributeName="rx" values="560;580;540;560" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.8;1" dur="6s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="1370" cy="370" rx="480" ry="280" fill="url(#gGlowGreen)">
+      <animate attributeName="rx" values="480;460;500;480" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.75;1" dur="7s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="1310" cy="150" rx="300" ry="190" fill="url(#gGlowCore)">
+      <animate attributeName="opacity" values="0.9;0.55;0.9" dur="6.5s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- Scan line -->
+    <rect x="0" y="-80" width="1550" height="80" fill="url(#gScan)">
       <animateTransform attributeName="transform" type="translate" values="0,0;0,480;0,0" dur="5s" repeatCount="indefinite" calcMode="linear"/>
     </rect>
-  </g>
 
-  <!-- Network graph edges (animated opacity pulse on individual edges) -->
-  <g clip-path="url(#mainClip)">
+    <!-- ================= CONSTELLATION CLUSTER (mid-right) ================= -->
     <g stroke="#1B3A5C" stroke-width="1.1" fill="none">
-      <path d="M968 62 L1116 138 L1058 268 L1218 330">
+      <path d="M968 62 L1064 122 L1010 236 L1128 306">
         <animate attributeName="stroke-opacity" values="0.75;0.4;0.75" dur="4s" repeatCount="indefinite"/>
       </path>
-      <path d="M1116 138 L1292 104 L1418 188">
-        <animate attributeName="stroke-opacity" values="0.75;0.35;0.75" dur="5.5s" repeatCount="indefinite"/>
-      </path>
-      <path d="M1058 268 L932 206">
+      <path d="M1010 236 L936 176">
         <animate attributeName="stroke-opacity" values="0.6;0.25;0.6" dur="3.8s" repeatCount="indefinite"/>
       </path>
-      <path d="M1292 104 L1352 24">
+      <path d="M1064 122 L1150 54">
         <animate attributeName="stroke-opacity" values="0.7;0.3;0.7" dur="6s" repeatCount="indefinite"/>
       </path>
-      <path d="M1418 188 L1476 302">
-        <animate attributeName="stroke-opacity" values="0.65;0.3;0.65" dur="4.5s" repeatCount="indefinite"/>
-      </path>
-      <path d="M1218 330 L1396 366">
-        <animate attributeName="stroke-opacity" values="0.55;0.2;0.55" dur="5s" repeatCount="indefinite"/>
-      </path>
-      <path d="M1116 138 L1418 188">
-        <animate attributeName="stroke-opacity" values="0.5;0.15;0.5" dur="7s" repeatCount="indefinite"/>
+      <path d="M1128 306 L1044 352">
+        <animate attributeName="stroke-opacity" values="0.5;0.18;0.5" dur="5.2s" repeatCount="indefinite"/>
       </path>
       <path d="M52 372 L196 322 L318 384">
         <animate attributeName="stroke-opacity" values="0.4;0.1;0.4" dur="6s" repeatCount="indefinite"/>
@@ -107,73 +153,226 @@
       </path>
     </g>
 
-    <!-- Traveling pulse along edges (data packet effect) -->
-    <circle r="2.5" fill="#22D3EE" opacity="0.9">
-      <animateMotion dur="4s" repeatCount="indefinite" calcMode="linear">
-        <mpath href="#edgePath1"/>
-      </animateMotion>
-      <animate attributeName="opacity" values="0;0.9;0.9;0" dur="4s" repeatCount="indefinite"/>
-    </circle>
-    <path id="edgePath1" d="M968 62 L1116 138 L1058 268 L1218 330" fill="none"/>
+    <!-- ================= NEURAL NETWORK LAYERS (right) ================= -->
+    <g stroke="#17405F" stroke-width="0.9" fill="none" opacity="0.85">
+      <!-- input -> hidden -->
+      <path d="M1206 96 L1310 66"/><path d="M1206 96 L1310 122"/><path d="M1206 96 L1310 178"/><path d="M1206 96 L1310 234"/>
+      <path d="M1206 152 L1310 66"/><path d="M1206 152 L1310 122"/><path d="M1206 152 L1310 178"/><path d="M1206 152 L1310 234"/>
+      <path d="M1206 208 L1310 66"/><path d="M1206 208 L1310 122"/><path d="M1206 208 L1310 178"/><path d="M1206 208 L1310 234"/>
+      <!-- hidden -> output -->
+      <path d="M1310 66 L1414 96"/><path d="M1310 66 L1414 152"/><path d="M1310 66 L1414 208"/>
+      <path d="M1310 122 L1414 96"/><path d="M1310 122 L1414 152"/><path d="M1310 122 L1414 208"/>
+      <path d="M1310 178 L1414 96"/><path d="M1310 178 L1414 152"/><path d="M1310 178 L1414 208"/>
+      <path d="M1310 234 L1414 96"/><path d="M1310 234 L1414 152"/><path d="M1310 234 L1414 208"/>
+      <animate attributeName="stroke-opacity" values="0.55;0.28;0.55" dur="7s" repeatCount="indefinite"/>
+    </g>
+    <!-- activation highlight sweeping across the layers -->
+    <g stroke="#22D3EE" stroke-width="1.1" fill="none" opacity="0">
+      <path d="M1206 152 L1310 122 L1414 152"/>
+      <animate attributeName="opacity" values="0;0.55;0" dur="4.2s" repeatCount="indefinite"/>
+    </g>
+    <g stroke="#4ADE80" stroke-width="1.1" fill="none" opacity="0">
+      <path d="M1206 208 L1310 234 L1414 208"/>
+      <animate attributeName="opacity" values="0;0.45;0" dur="5.8s" begin="1.4s" repeatCount="indefinite"/>
+    </g>
+    <!-- output link into the wider graph -->
+    <path d="M1414 152 L1486 236 L1400 330" fill="none" stroke="#1B3A5C" stroke-width="1">
+      <animate attributeName="stroke-opacity" values="0.55;0.2;0.55" dur="6.4s" repeatCount="indefinite"/>
+    </path>
 
-    <circle r="2" fill="#4ADE80" opacity="0.8">
-      <animateMotion dur="5.5s" repeatCount="indefinite" calcMode="linear" begin="1.5s">
-        <mpath href="#edgePath2"/>
-      </animateMotion>
-      <animate attributeName="opacity" values="0;0.8;0.8;0" dur="5.5s" repeatCount="indefinite" begin="1.5s"/>
-    </circle>
-    <path id="edgePath2" d="M1116 138 L1292 104 L1418 188" fill="none"/>
+    <!-- Neural nodes -->
+    <g filter="url(#fNodeGlow)">
+      <circle cx="1206" cy="96" r="3.4" fill="#38BDF8" opacity="0.85"/>
+      <circle cx="1206" cy="152" r="3.4" fill="#38BDF8" opacity="0.85">
+        <animate attributeName="r" values="3.4;5;3.4" dur="4.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1206" cy="208" r="3.4" fill="#38BDF8" opacity="0.8"/>
 
-    <circle r="2" fill="#38BDF8" opacity="0.7">
-      <animateMotion dur="3.5s" repeatCount="indefinite" calcMode="linear" begin="0.8s">
-        <mpath href="#edgePath3"/>
-      </animateMotion>
-      <animate attributeName="opacity" values="0;0.7;0.7;0" dur="3.5s" repeatCount="indefinite" begin="0.8s"/>
-    </circle>
-    <path id="edgePath3" d="M1058 268 L932 206" fill="none"/>
+      <circle cx="1310" cy="66" r="3.6" fill="#22D3EE" opacity="0.8"/>
+      <circle cx="1310" cy="122" r="3.6" fill="#22D3EE" opacity="0.9">
+        <animate attributeName="r" values="3.6;5.4;3.6" dur="4.2s" begin="0.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1310" cy="178" r="3.6" fill="#22D3EE" opacity="0.8"/>
+      <circle cx="1310" cy="234" r="3.6" fill="#22D3EE" opacity="0.75"/>
 
-    <!-- Network nodes with pulse -->
-    <g filter="url(#nodeGlow)">
+      <circle cx="1414" cy="96" r="3.6" fill="#4ADE80" opacity="0.8"/>
+      <circle cx="1414" cy="152" r="4" fill="#4ADE80" opacity="0.9">
+        <animate attributeName="r" values="4;6;4" dur="4.2s" begin="1s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1414" cy="208" r="3.6" fill="#4ADE80" opacity="0.8"/>
+
+      <!-- expanding pulse rings -->
+      <circle cx="1310" cy="122" r="4" fill="none" stroke="#22D3EE" stroke-width="1">
+        <animate attributeName="r" values="4;16;24" dur="4.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.4;0.1;0" dur="4.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1414" cy="152" r="4" fill="none" stroke="#4ADE80" stroke-width="1">
+        <animate attributeName="r" values="4;18;26" dur="5.6s" begin="1.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.35;0.08;0" dur="5.6s" begin="1.2s" repeatCount="indefinite"/>
+      </circle>
+
+      <!-- constellation nodes -->
       <circle cx="968" cy="62" r="3.2" fill="#22D3EE">
         <animate attributeName="r" values="3.2;5;3.2" dur="3s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="968" cy="62" r="8" fill="#22D3EE" opacity="0">
+      <circle cx="968" cy="62" r="4" fill="none" stroke="#22D3EE" stroke-width="1">
         <animate attributeName="r" values="3;12;18" dur="3s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.4;0.1;0" dur="3s" repeatCount="indefinite"/>
       </circle>
-
-      <circle cx="1116" cy="138" r="4.2" fill="#38BDF8">
-        <animate attributeName="r" values="4.2;6;4.2" dur="4s" repeatCount="indefinite" begin="0.5s"/>
-        <animate attributeName="opacity" values="0.8;1;0.8" dur="4s" repeatCount="indefinite" begin="0.5s"/>
-      </circle>
-      <circle cx="1116" cy="138" r="10" fill="#38BDF8" opacity="0">
-        <animate attributeName="r" values="4;14;20" dur="4s" repeatCount="indefinite" begin="0.5s"/>
-        <animate attributeName="opacity" values="0.35;0.1;0" dur="4s" repeatCount="indefinite" begin="0.5s"/>
-      </circle>
-
-      <circle cx="1418" cy="188" r="4.4" fill="#22D3EE">
-        <animate attributeName="r" values="4.4;6.5;4.4" dur="5s" repeatCount="indefinite" begin="1s"/>
-        <animate attributeName="opacity" values="0.75;1;0.75" dur="5s" repeatCount="indefinite" begin="1s"/>
-      </circle>
-      <circle cx="1418" cy="188" r="10" fill="#22D3EE" opacity="0">
-        <animate attributeName="r" values="5;16;22" dur="5s" repeatCount="indefinite" begin="1s"/>
-        <animate attributeName="opacity" values="0.3;0.08;0" dur="5s" repeatCount="indefinite" begin="1s"/>
-      </circle>
-
-      <circle cx="1218" cy="330" r="3.8" fill="#4ADE80" opacity="0.6"/>
-      <circle cx="1292" cy="104" r="3.4" fill="#38BDF8" opacity="0.7"/>
-      <circle cx="932" cy="206" r="2.8" fill="#4ADE80" opacity="0.55"/>
-      <circle cx="1352" cy="24" r="2.6" fill="#38BDF8" opacity="0.5"/>
-      <circle cx="1476" cy="302" r="3.2" fill="#4ADE80" opacity="0.6"/>
-      <circle cx="1396" cy="366" r="2.8" fill="#22D3EE" opacity="0.5"/>
+      <circle cx="1064" cy="122" r="4" fill="#38BDF8" opacity="0.8"/>
+      <circle cx="1010" cy="236" r="3" fill="#4ADE80" opacity="0.6"/>
+      <circle cx="936" cy="176" r="2.6" fill="#4ADE80" opacity="0.5"/>
+      <circle cx="1128" cy="306" r="3.2" fill="#22D3EE" opacity="0.55"/>
+      <circle cx="1150" cy="54" r="2.6" fill="#38BDF8" opacity="0.5"/>
+      <circle cx="1044" cy="352" r="2.4" fill="#4ADE80" opacity="0.4"/>
+      <circle cx="1486" cy="236" r="3" fill="#38BDF8" opacity="0.55"/>
+      <circle cx="1400" cy="330" r="2.8" fill="#22D3EE" opacity="0.5"/>
       <circle cx="196" cy="322" r="3.2" fill="#22D3EE" opacity="0.45"/>
       <circle cx="52" cy="372" r="2.4" fill="#38BDF8" opacity="0.35"/>
       <circle cx="318" cy="384" r="2.4" fill="#4ADE80" opacity="0.35"/>
       <circle cx="104" cy="246" r="2.4" fill="#22D3EE" opacity="0.3"/>
     </g>
 
-    <!-- Floating particles -->
+    <!-- ================= DATA PACKETS ================= -->
+    <g filter="url(#fMicroGlow)">
+      <circle r="2.5" fill="#22D3EE">
+        <animateMotion dur="4s" repeatCount="indefinite" calcMode="linear">
+          <mpath xlink:href="#pathPk1" href="#pathPk1"/>
+        </animateMotion>
+        <animate attributeName="opacity" values="0;0.9;0.9;0" dur="4s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="2.2" fill="#4ADE80">
+        <animateMotion dur="3.2s" begin="0.4s" repeatCount="indefinite" calcMode="linear">
+          <mpath xlink:href="#pathPk2" href="#pathPk2"/>
+        </animateMotion>
+        <animate attributeName="opacity" values="0;0.85;0.85;0" dur="3.2s" begin="0.4s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="2.2" fill="#38BDF8">
+        <animateMotion dur="3.6s" begin="1.1s" repeatCount="indefinite" calcMode="linear">
+          <mpath xlink:href="#pathPk3" href="#pathPk3"/>
+        </animateMotion>
+        <animate attributeName="opacity" values="0;0.85;0.85;0" dur="3.6s" begin="1.1s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="2" fill="#22D3EE">
+        <animateMotion dur="4.4s" begin="2s" repeatCount="indefinite" calcMode="linear">
+          <mpath xlink:href="#pathPk4" href="#pathPk4"/>
+        </animateMotion>
+        <animate attributeName="opacity" values="0;0.75;0.75;0" dur="4.4s" begin="2s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="2" fill="#4ADE80">
+        <animateMotion dur="2.8s" begin="0.8s" repeatCount="indefinite" calcMode="linear">
+          <mpath xlink:href="#pathPk5" href="#pathPk5"/>
+        </animateMotion>
+        <animate attributeName="opacity" values="0;0.7;0.7;0" dur="2.8s" begin="0.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="2.2" fill="#38BDF8">
+        <animateMotion dur="5s" begin="1.6s" repeatCount="indefinite" calcMode="linear">
+          <mpath xlink:href="#pathPk6" href="#pathPk6"/>
+        </animateMotion>
+        <animate attributeName="opacity" values="0;0.7;0.7;0" dur="5s" begin="1.6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- ================= MINI CHART (loss curve) ================= -->
+    <g opacity="0.75">
+      <path d="M986 366 L1166 366" stroke="#12324D" stroke-width="1"/>
+      <path d="M986 366 L986 288" stroke="#12324D" stroke-width="1"/>
+      <path d="M986 296 L1016 322 L1046 312 L1076 336 L1106 328 L1136 348 L1166 342"
+            fill="none" stroke="url(#gSpark)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"
+            stroke-dasharray="260" stroke-dashoffset="260">
+        <animate attributeName="stroke-dashoffset" values="260;0" dur="2.6s" begin="1.2s" fill="freeze"/>
+        <animate attributeName="stroke-dashoffset" values="0;260;0" dur="14s" begin="6s" repeatCount="indefinite"/>
+      </path>
+      <g fill="#4ADE80" opacity="0">
+        <circle cx="1046" cy="312" r="1.8"/>
+        <circle cx="1106" cy="328" r="1.8"/>
+        <circle cx="1166" cy="342" r="2.2"/>
+        <animate attributeName="opacity" values="0;0.8;0.35;0.8" dur="6s" begin="3.4s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <!-- ================= MINI BAR CHART ================= -->
+    <g opacity="0.5">
+      <rect x="1216" y="330" width="7" height="30" fill="#1D5C7A" rx="1.5">
+        <animate attributeName="height" values="30;44;30" dur="4.5s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="330;316;330" dur="4.5s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="1231" y="318" width="7" height="42" fill="#1E7A8C" rx="1.5">
+        <animate attributeName="height" values="42;26;42" dur="5.2s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="318;334;318" dur="5.2s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="1246" y="340" width="7" height="20" fill="#22D3EE" rx="1.5">
+        <animate attributeName="height" values="20;38;20" dur="3.9s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="340;322;340" dur="3.9s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="1261" y="326" width="7" height="34" fill="#2A9D8F" rx="1.5">
+        <animate attributeName="height" values="34;48;34" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="326;312;326" dur="6s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="1276" y="336" width="7" height="24" fill="#4ADE80" rx="1.5">
+        <animate attributeName="height" values="24;40;24" dur="4.8s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="336;320;336" dur="4.8s" repeatCount="indefinite"/>
+      </rect>
+      <path d="M1210 362 L1292 362" stroke="#12324D" stroke-width="1"/>
+    </g>
+
+    <!-- ================= SCATTER / DATA POINTS ================= -->
+    <g fill="#22D3EE" opacity="0.35">
+      <circle cx="1332" cy="300" r="1.6"/><circle cx="1348" cy="318" r="1.4"/>
+      <circle cx="1362" cy="292" r="1.8"/><circle cx="1378" cy="326" r="1.4"/>
+      <circle cx="1394" cy="304" r="1.6"/><circle cx="1352" cy="344" r="1.4"/>
+      <circle cx="1320" cy="332" r="1.4"/><circle cx="1408" cy="342" r="1.6"/>
+      <animate attributeName="opacity" values="0.35;0.15;0.35" dur="6.8s" repeatCount="indefinite"/>
+    </g>
+    <path d="M1314 344 L1416 296" stroke="#4ADE80" stroke-width="0.9" stroke-dasharray="4 4" opacity="0.3"/>
+
+    <!-- ================= MATH / DATA SYMBOLS ================= -->
+    <g font-family="'Cambria Math', 'Times New Roman', Georgia, serif" font-style="italic" fill="#3F7FA8">
+      <text x="1470" y="118" font-size="26" opacity="0.22">&#8721;
+        <animate attributeName="opacity" values="0.22;0.06;0.22" dur="7s" repeatCount="indefinite"/>
+      </text>
+      <text x="1500" y="196" font-size="22" opacity="0.18">&#8711;
+        <animate attributeName="opacity" values="0.18;0.05;0.18" dur="9s" repeatCount="indefinite"/>
+      </text>
+      <text x="1160" y="128" font-size="20" opacity="0.16">&#952;
+        <animate attributeName="opacity" values="0.16;0.05;0.16" dur="8s" repeatCount="indefinite"/>
+      </text>
+      <text x="1128" y="216" font-size="19" opacity="0.15">&#955;
+        <animate attributeName="opacity" values="0.15;0.04;0.15" dur="6.4s" repeatCount="indefinite"/>
+      </text>
+      <text x="1462" y="366" font-size="21" opacity="0.16">&#8747;
+        <animate attributeName="opacity" values="0.16;0.05;0.16" dur="10s" repeatCount="indefinite"/>
+      </text>
+      <text x="900" y="120" font-size="18" opacity="0.12">&#963;
+        <animate attributeName="opacity" values="0.12;0.03;0.12" dur="7.6s" repeatCount="indefinite"/>
+      </text>
+      <text x="866" y="330" font-size="18" opacity="0.12">&#8706;
+        <animate attributeName="opacity" values="0.12;0.03;0.12" dur="8.6s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- ================= BINARY / DATA PARTICLES ================= -->
+    <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#2C6E8F" letter-spacing="2">
+      <text x="1500" y="60" opacity="0.2">1011
+        <animate attributeName="y" values="60;42;60" dur="11s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.2;0.05;0.2" dur="11s" repeatCount="indefinite"/>
+      </text>
+      <text x="1176" y="286" opacity="0.18">0110
+        <animate attributeName="y" values="286;268;286" dur="9.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.18;0.04;0.18" dur="9.5s" repeatCount="indefinite"/>
+      </text>
+      <text x="1436" y="266" opacity="0.16">1001
+        <animate attributeName="y" values="266;250;266" dur="12s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.16;0.04;0.16" dur="12s" repeatCount="indefinite"/>
+      </text>
+      <text x="940" y="278" opacity="0.14">0101
+        <animate attributeName="y" values="278;262;278" dur="10.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.14;0.03;0.14" dur="10.5s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- ================= FLOATING PARTICLES ================= -->
     <g opacity="0.6">
       <circle cx="400" cy="80" r="1.5" fill="#22D3EE">
         <animate attributeName="cy" values="80;60;80" dur="5s" repeatCount="indefinite"/>
@@ -197,36 +396,57 @@
       </circle>
     </g>
 
-    <!-- Name text with reveal animation -->
-    <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="700">
-      <!-- Glow layer -->
-      <text x="88" y="178" font-size="96" letter-spacing="5" fill="url(#nameGrad)" filter="url(#softGlow)" opacity="0.55">RUDRA PARMAR</text>
-      <!-- Main text -->
-      <text x="88" y="178" font-size="96" letter-spacing="5" fill="url(#nameGrad)">
-        RUDRA PARMAR
-        <animate attributeName="opacity" values="0;0;1" dur="0.8s" fill="freeze" calcMode="discrete"/>
+    <!-- ================= NAME ================= -->
+    <g clip-path="url(#cNameWipe)" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="700">
+      <text x="88" y="178" font-size="96" letter-spacing="5" fill="url(#gName)" filter="url(#fSoftGlow)" opacity="0.55">RUDRA PARMAR</text>
+      <text x="88" y="178" font-size="96" letter-spacing="5" fill="url(#gName)">RUDRA PARMAR</text>
+    </g>
+    <!-- reveal sweep that travels with the wipe edge -->
+    <rect x="70" y="82" width="26" height="120" fill="url(#gSweep)" opacity="0">
+      <animate attributeName="x" values="70;1044" dur="0.95s" begin="0.20s"
+               calcMode="spline" keyTimes="0;1" keySplines="0.16 0.84 0.30 1" fill="freeze"/>
+      <animate attributeName="opacity" values="0;0.75;0.75;0" keyTimes="0;0.12;0.75;1" dur="1.1s" begin="0.20s" fill="freeze"/>
+    </rect>
+
+    <!-- ================= ROLE LINE (slide-in from left) ================= -->
+    <g opacity="0">
+      <!-- entrance: translate -105px -> 0 with ease-out -->
+      <animateTransform attributeName="transform" type="translate"
+                        values="-105,0; 0,0" dur="1.15s" begin="0.95s"
+                        calcMode="spline" keyTimes="0;1" keySplines="0.14 0.86 0.24 1" fill="freeze"/>
+      <animate attributeName="opacity" values="0;0.25;1" keyTimes="0;0.35;1" dur="1.15s" begin="0.95s" fill="freeze"/>
+
+      <!-- cyan trail that fades out once the line settles -->
+      <text x="92" y="228" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace"
+            font-size="19" letter-spacing="5" fill="#22D3EE" filter="url(#fTrail)" opacity="0">AI/ML ENGINEER &#8226; DATA ENGINEER &#8226; SOFTWARE DEVELOPER
+        <animate attributeName="opacity" values="0;0.45;0.30;0" keyTimes="0;0.25;0.6;1" dur="1.35s" begin="0.95s" fill="freeze"/>
       </text>
+
+      <!-- main role text -->
+      <text x="92" y="228" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace"
+            font-size="19" letter-spacing="5" fill="#7DD3FC" opacity="0.92">AI/ML ENGINEER &#8226; DATA ENGINEER &#8226; SOFTWARE DEVELOPER</text>
+
+      <!-- terminal cursor, appears only after the line settles -->
+      <rect x="958" y="211" width="9" height="20" fill="#22D3EE" opacity="0">
+        <animate attributeName="opacity" values="0;0.85" dur="0.01s" begin="2.1s" fill="freeze"/>
+        <animate attributeName="opacity" values="0.85;0;0.85" dur="1.1s" begin="2.1s" repeatCount="indefinite"/>
+      </rect>
     </g>
 
-    <!-- Role line -->
-    <text x="92" y="228" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', Menlo, monospace" font-size="19" letter-spacing="5" fill="#7DD3FC" opacity="0.92">AI/ML ENGINEER • DATA ENGINEER • SOFTWARE DEVELOPER
-      <animate attributeName="opacity" values="0;0;0.92" dur="1.2s" fill="freeze" calcMode="discrete"/>
-    </text>
-
-    <!-- Animated cursor blink after role line -->
-    <rect x="958" y="211" width="9" height="20" fill="#22D3EE" opacity="0.85">
-      <animate attributeName="opacity" values="0.85;0;0.85" dur="1.1s" repeatCount="indefinite"/>
+    <!-- ================= DIVIDER ================= -->
+    <rect x="92" y="258" width="0" height="1.4" fill="url(#gRule)">
+      <animate attributeName="width" values="0;700" dur="0.9s" begin="1.95s"
+               calcMode="spline" keyTimes="0;1" keySplines="0.16 0.84 0.30 1" fill="freeze"/>
     </rect>
 
-    <!-- Horizontal rule animated draw -->
-    <rect x="92" y="258" width="0" height="1.4" fill="url(#ruleGrad)">
-      <animate attributeName="width" from="0" to="700" dur="1s" begin="0.5s" fill="freeze"/>
-    </rect>
-
-    <!-- Tagline -->
-    <text x="92" y="302" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" fill="#94A3B8">Building data-driven systems, ML solutions and scalable software.
-      <animate attributeName="opacity" values="0;0;1" dur="1.5s" fill="freeze" calcMode="discrete"/>
-    </text>
+    <!-- ================= TAGLINE ================= -->
+    <g opacity="0">
+      <animateTransform attributeName="transform" type="translate" values="-22,0; 0,0" dur="0.9s" begin="2.45s"
+                        calcMode="spline" keyTimes="0;1" keySplines="0.18 0.82 0.26 1" fill="freeze"/>
+      <animate attributeName="opacity" values="0;1" dur="0.9s" begin="2.45s" fill="freeze"/>
+      <text x="92" y="302" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+            font-size="23" fill="#94A3B8">Building data-driven systems, ML solutions and scalable software.</text>
+    </g>
 
   </g>
 
