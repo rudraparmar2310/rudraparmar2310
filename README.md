@@ -38,7 +38,7 @@ Software Engineer focused on Java, Spring Boot, Python, Data Engineering, Machin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch" title="PyTorch" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="42" height="42" alt="OpenCV" title="OpenCV" />
 </p>
-<img src="https://img.shields.io/badge/YOLO-Object%20Detection-111F68?style=for-the-badge&logoColor=white" alt="YOLO" />
+<img src="./assets/yolo.png" width="42" height="42" alt="YOLO" title="YOLO" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-0B1220?style=flat-square" alt="Machine Learning" />
